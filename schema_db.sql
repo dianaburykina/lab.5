@@ -1,4 +1,3 @@
-
 /*
 insert into mars (e_mail, first_name, last_name, middle_name, birth_date, phone, role_name) values
 ('anisimovV@mail.ru','Анисимов','Владимир','Борисович','12-09-1998','+7(978)384-45-43','user'),
@@ -12,3 +11,4 @@ insert into mars (e_mail, first_name, last_name, middle_name, birth_date, phone,
 ('frolovamaria23@mail.ru','Фролова','Мария','Вячеславовна','12-04-2000','+7(978)896-59-34','user'),
 ('ivancherhysh@mail.ru','Чёрных','Иван','Даниилович','19-10-1998','+7(978)605-38-74','user');
 */
+
